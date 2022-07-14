@@ -1,0 +1,5 @@
+How to Set Billing Alert message in AWS :-
+Open AWS Management Console --> Goto Username and to select MY Billing Dashboard.
+It shows Billing & Cost Management here It displays the cost of the AWS Service Bill Details through to Graph,cost,month wise Details about it Uses.
+click Month to Date Spend by Service -- Bill Details.Here It Displays How to Generated the Bill in Region wise into specific mentioned.
+To set the Alert msg:- Suppose if we want to Bill is generated after 100 rupees then a notification will pass through as a message in our Email. Goto Budgets option and Click on Create a Budget Option.after that to select Cost Budget then click on to set you Budget. Here To Give the Details about Name,Period and select Recurring Budget next to click Fixed Option after to give Budgeted amount =$1.3 and tick all Advanced Options and click on configure alerts, Here Give the limit of 80 in Alert threshold box. next to give Gmail-Id and click confirm Budget option finally to click on Create Option then Billing Alert message is created. Suppose If you want Multiple email alerts then to give all Email-id's into same Add email contact Box.     	
